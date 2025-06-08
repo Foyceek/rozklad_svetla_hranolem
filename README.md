@@ -1,1 +1,1 @@
-# rozklad_svetla_hranolem
+# Rozklad světla hranolem
